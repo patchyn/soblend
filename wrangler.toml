@@ -1,0 +1,8 @@
+name = "soblendkx-api"
+main = "src/search.ts"
+compatibility_date = "2025-06-30"
+usage_model = "bundled"
+
+# Si usas variables secretas más adelante:
+# [vars]
+# SERPAPI_API_KEY = "tu_api_key"
