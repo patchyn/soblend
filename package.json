@@ -1,0 +1,12 @@
+{
+  "name": "soblendkx-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev src/search.ts",
+    "deploy": "wrangler deploy src/search.ts"
+  },
+  "devDependencies": {
+    "wrangler": "^3.57.0"
+  }
+}
