@@ -1,4 +1,4 @@
-name = "soblend-api"
+name = "soblendr-api"
 main = "search.ts"
 compatibility_date = "2025-06-30"
 usage_model = "bundled"
